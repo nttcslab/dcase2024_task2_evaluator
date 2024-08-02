@@ -183,6 +183,14 @@ DCASE2024_baseline_task2_MSE,TOTAL score,0.5650830191796572,0.5863391812865497,,
 
 ```
 
+## Change log
+### 2024/08/02 Added Ground truth attributes
+
+- Attributes have been added to three machine types for which Ground Truth had "noAttribute".
+    - AirCompressor
+    - HoveringDrone
+    - ToothBrush
+
 ## Citation
 
 If you use this system, please cite all the following four papers:

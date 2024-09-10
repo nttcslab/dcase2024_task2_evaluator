@@ -184,6 +184,16 @@ DCASE2024_baseline_task2_MSE,TOTAL score,0.5650830191796572,0.5863391812865497,,
 ```
 
 ## Change log
+### 2024/09/10 Added Ground truth attributes
+
+- Attributes have been added to following machine types for which Ground Truth had "noAttribute".
+  - [Development dataset](ground_truth_attributes_all/dev_data)
+    - train data
+    - test data
+  - [Evaluation dataset](ground_truth_attributes_all/eval_data)
+    - train data
+    - test data
+
 ### 2024/08/02 Added Ground truth attributes
 
 - Attributes have been added to three machine types for which Ground Truth had "noAttribute".
